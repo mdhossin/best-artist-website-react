@@ -1,0 +1,134 @@
+[
+  {
+    "_id": "614dd0f89e06627935601c8c",
+    "index": 1,
+    "name": "Drake",
+    "role": "Musician",
+    "picture": "https://pyxis.nymag.com/v1/imgs/cb9/0a6/314d3251d7f439ffd52b7e805ed1c8a11a-30-drake-new.rsquare.w1200.jpg",
+    "age": 34,
+    "price": "6000",
+    "country": "United States",
+    "gender": "male"
+  },
+  {
+    "_id": "614dd0f89e06627935601c7c",
+    "index": 2,
+    "name": "Kacey Musgraves",
+    "role": "Singer",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpzJbDSsO69i8LNlVjua8GZtbQO8sqpicTPQ&usqp=CAU",
+    "age": 33,
+    "price": "8000",
+    "country": "Mineola, Texas, U.S.",
+    "gender": "female"
+  },
+  {
+    "_id": "614dd0f89e06627935601c6c",
+    "index": 3,
+    "name": "Ed Sheeran",
+    "role": "Singer-songwriter",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Wv3HvfSmrPjmuf4OTb9JVo94d2JgvWp9lg&usqp=CAU",
+    "age": 30,
+    "price": "7500",
+    "country": "England",
+    "gender": "male"
+  },
+  {
+    "_id": "614dd0f89e06627935601c5c",
+    "index": 4,
+    "name": "Luke Combs",
+    "role": "Singer",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX8y4CZlfSrDjpyCq7FHi2tkdIer2vFOwgyA&usqp=CAU",
+    "age": 31,
+    "price": "9500",
+    "country": "United States",
+    "gender": "male"
+  },
+  {
+    "_id": "614dd0f89e06627935601c4c",
+    "index": 5,
+    "name": "Walker Hayes",
+    "role": "\tSinger-songwriter",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCBlTTR2HF_ju29pBJjHJ-MvfPSfX2_7rpcg&usqp=CAU",
+    "age": 41,
+    "price": "11500",
+    "country": "Pop, country pop",
+    "gender": "male"
+  },
+  {
+    "_id": "614dd0f89e06627935601c3c",
+    "index": 6,
+    "name": "Morgan Wallen",
+    "role": "Songwriter",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9zwEasBAoH6vdtcolMnUiQ3guOUXlR8tg9Q&usqp=CAU",
+    "age": 28,
+    "price": "12000",
+    "country": "United States",
+    "gender": "male"
+  },
+  {
+    "_id": "614dd0f89e06627935601c2c",
+    "index": 7,
+    "name": "Post Malone",
+    "role": "Rapper-singer",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbNJLgGU_4yFYLvfD-FvZ37AFiFafoKl56TA&usqp=CAU",
+    "age": 26,
+    "price": "8600",
+    "country": "United States",
+    "gender": "male"
+  },
+  {
+    "_id": "614dd0f89e06627935601c1c",
+    "index": 8,
+    "name": "Jason Aldean",
+    "role": "Singer-songwriter",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLVeP8jz0KFwmMVNWWOZoTMrRTh6_t-7aEKQ&usqp=CAU",
+    "age": 44,
+    "price": "5900",
+    "country": "United States",
+    "gender": "male"
+  },
+  {
+    "_id": "614dd0f89e06627935601c0c",
+    "index": 9,
+    "name": "Luke Bryan",
+    "role": "Singer",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe1UfdHUSuNkzxjm_j6shqL6RYSY-rXPVpVA&usqp=CAU",
+    "age": 45,
+    "price": "22000",
+    "country": "United States",
+    "gender": "male"
+  },
+  {
+    "_id": "614dd0f89e06627935601c11c",
+    "index": 10,
+    "name": "Lee Brice",
+    "role": "Singer-songwriter",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS6op-iH392OQvfkf_pRr-piYJAmg-DCcmbg&usqp=CAU",
+    "age": 42,
+    "price": "25000",
+    "country": "United States",
+    "gender": "male"
+  },
+  {
+    "_id": "614dd0f89e06627935601c12c",
+    "index": 11,
+    "name": "Farruko",
+    "role": "Singer",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqGQsNohNXkGeD9tj9uKqKMCDugTLHJu81IQ&usqp=CAU",
+    "age": 30,
+    "price": "80630",
+    "country": "UBayamón, Puerto Rico",
+    "gender": "male"
+  },
+  {
+    "_id": "614dd0f89e06627935601c13c",
+    "index": 12,
+    "name": "Lainey Wilson",
+    "role": "Singer",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFUDp9YN2enaa21hiJqW3FhQB4fk0yWVT-g&usqp=CAU",
+    "age": 29,
+    "price": "70630",
+    "country": "Tennessee, U.S.",
+    "gender": "female"
+  }
+]

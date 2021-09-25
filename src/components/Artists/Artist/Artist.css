@@ -1,0 +1,60 @@
+.single-card img{
+    height: 250px;
+}
+.single-card{
+    background-color: #fcfcfc;
+    transition: .3s all ease-in;
+    -webkit-transition: .3s all ease-in;
+    -moz-transition: .3s all ease-in;
+    -ms-transition: .3s all ease-in;
+    -o-transition: .3s all ease-in;
+}
+.single-card:hover{
+    transform: scale(.98);
+    -webkit-transform: scale(.98);
+    -moz-transform: scale(.98);
+    -ms-transform: scale(.98);
+    -o-transform: scale(.98);
+}
+.card-button{
+    border: none;
+    background-color: #fcfcfc;
+}
+.card-text p{
+    margin: 2px;
+}
+.price-color{
+    color: #e28f00;
+}
+.name-color{
+    color:
+    #494747;
+}
+.card-button-style{
+    display: inline;
+}
+.card-button .shopping-cart {
+    color: #eca323;
+    margin-right: 5px;
+}
+.card-button-style:hover .shopping-cart {
+    color: white !important;
+}
+
+.social-icon i{
+    font-size: 30px;
+    margin-right: 8px;
+}
+.facebook{
+    color: #38529A;
+}
+.twitter{
+    color: #3496E4;
+}
+.instagram {
+    color:#8453aa;
+    /* color: rgb(#F4A542, #D04D64, #8E4BC3); */
+}
+.player-add-color{
+   color:  #198754;
+}
