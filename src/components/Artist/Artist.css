@@ -1,5 +1,11 @@
 .single-card img{
-    height: 250px;
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
 }
 .single-card{
     background-color: #fcfcfc;

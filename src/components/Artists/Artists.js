@@ -34,7 +34,7 @@ const Artists = () => {
             ></Artist>
           ))}
         </div>
-        <div className="cart-container text-center">
+        <div className="cart-container text-center mt-2">
           <Cart cart={cart}></Cart>
         </div>
       </div>

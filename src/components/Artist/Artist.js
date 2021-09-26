@@ -8,7 +8,9 @@ const Artist = (props) => {
     // show singe card
     <div>
       <div className="card h-100 single-card shadow">
-        <img src={picture} className="card-img-top" alt="..." />
+        <div className="py-2 mx-auto">
+          <img src={picture} className="card-img-top circle" alt="..." />
+        </div>
         <div className="card-body card-text">
           <h4 className="name-color">
             Name : <span>{name}</span>
