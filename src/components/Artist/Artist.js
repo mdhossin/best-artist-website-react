@@ -2,9 +2,10 @@ import React from "react";
 import "./Artist.css";
 
 const Artist = (props) => {
-  //   const { addToCart } = props.cartBtn;
+  // destructuring here from object
   const { picture, name, age, price, country, gender, role } = props.artist;
   return (
+    // show singe card
     <div>
       <div className="card h-100 single-card shadow">
         <img src={picture} className="card-img-top" alt="..." />

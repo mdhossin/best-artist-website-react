@@ -1,12 +1,13 @@
 import React from "react";
 
 const Header = () => {
+  // header
   return (
     <div className="">
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container">
           <a className="navbar-brand fw-bold fst-italic" href="/">
-            Musician
+            Music
           </a>
           <button
             className="navbar-toggler"
@@ -28,7 +29,7 @@ const Header = () => {
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="/">
-                  About
+                  About Us
                 </a>
               </li>
               <li className="nav-item">
@@ -60,10 +61,10 @@ const Header = () => {
           Total budget for this Concert :{" "}
           <span className="fw-bold">$ 10 Million</span>
         </h3>
-        <p>
+        {/* <p>
           This is the best Concert will be in the world because here have best
           Musician and Singer you can enjoy it....
-        </p>
+        </p> */}
       </div>
     </div>
   );
