@@ -4,16 +4,19 @@ import "./Cart.css";
 
 const Cart = (props) => {
   const { cart } = props;
+
   // total amount count here
   const total = cart.reduce((priviousValue, currentValue) => {
     return priviousValue + parseInt(currentValue.price);
   }, 0);
+
   // stored object in array
   let storeName = [];
   for (const name of cart) {
-    storeName.push(name);
+    if (!storeName.includes(name)) {
+      storeName.push(name);
+    }
   }
-
   return (
     // show cart detail
     <div className="display-cart shadow">

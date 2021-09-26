@@ -4,6 +4,7 @@ import "./Artist.css";
 const Artist = (props) => {
   // destructuring here from object
   const { picture, name, age, price, country, gender, role } = props.artist;
+
   return (
     // show singe card
     <div>

@@ -6,7 +6,7 @@ const ShowName = (props) => {
 
   return (
     // when click the button show the same people in the cart
-    <div className="cart-style shadow">
+    <div className="cart-style">
       <div className="">
         <img src={picture} alt="" />
       </div>

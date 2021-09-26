@@ -61,10 +61,6 @@ const Header = () => {
           Total budget for this Concert :{" "}
           <span className="fw-bold">$ 10 Million</span>
         </h3>
-        {/* <p>
-          This is the best Concert will be in the world because here have best
-          Musician and Singer you can enjoy it....
-        </p> */}
       </div>
     </div>
   );
