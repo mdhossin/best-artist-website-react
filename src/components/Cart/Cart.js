@@ -20,10 +20,13 @@ const Cart = (props) => {
       <h2 className="player-add-color ">
         <i className="fas fa-user"></i> Player Added : {cart.length}
       </h2>
-      <h3 className="player-add-color fw-bold">Total cost : $ {total}</h3>
+      <h3 className="player-add-color fw-bold pb-2">Total cost : $ {total}</h3>
       {storeName.map((name) => (
         <ShowName key={name.index} cart={name}></ShowName>
       ))}
+      <div className="pb-2">
+        <button className="btn btn-outline-success">Buy Now</button>
+      </div>
     </div>
   );
 };
